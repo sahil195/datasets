@@ -1,0 +1,101 @@
+DateID,Date,CampusName,EntityCode,LevelOfCare,FacilityCode,BuildingName,BuildingID,DateBuildingKey,UnitName,RoomID,RoomName,BedName,BedID,ResidentDays,InServiceDays,Vacant,OccupancyDays,VacancyDays,OutOfServiceDays,OutOfService,SecondPerson,AdmissionsAL,AdmissionsIL,AdmissionsSNF
+20161211,11-12-16,Asbury Methodist Village,100,AL,51,Kindley,1002,2016-12-111002,Kindley 5th fl,7093,507,A,30074,1,1,0,635,0,0,0,0,0,0,0
+20150910,10-09-15,Asbury Methodist Village,100,IL,32,Diamond Apartments,999,2015-09-10999,DM Epworth,6395,510,A,28830,1,1,0,1959,0,0,0,0,0,0,0
+20141101,01-11-14,Asbury Methodist Village,100,IL,32,Diamond Apartments,999,2014-11-01999,DM Cassell,6319,309,A,28679,1,1,0,1641,0,0,0,0,0,0,0
+20160831,31-08-16,Asbury Solomons,200,IL,"""21     """,IL Cottages,993,2016-08-31993,The Chesapeake,6108,421,A,28260,1,1,0,125,0,0,0,0,0,0,0
+20180822,22-08-18,Springhill,324,SNF,61,Forest View,984,2018-08-22984,C Wing,8225,C4,L,32204,1,1,0,1723,0,0,0,0,0,0,0
+20151226,26-12-15,Asbury Methodist Village,100,IL,31,Trott Apartments,996,2015-12-26996,TR 1BR w/Den,7199,201,A,30260,1,1,0,2066,0,0,0,0,0,0,0
+20190808,08-08-19,Asbury Place Kingsport,,IL,"""31     """,Independent Living Asbury Place Kingsport Baysmont,1022,2019-08-081022,1st Floor,9711,102,A,34150,1,1,0,919,0,0,0,0,0,0,0
+20200731,31-07-20,Asbury Place Kingsport,,IL,"""31     """,Independent Living Asbury Place Kingsport Baysmont,1022,2020-07-311022,4th Floor,9444,421,A,34229,1,1,0,912,0,0,0,0,0,0,0
+20151030,30-10-15,Bethany Village,810,IL,"""21     """,Cottage East,1011,2015-10-301011,Webb,8120,610,A,32001,1,1,0,981,0,0,0,0,0,0,0
+20170321,21-03-17,Asbury Methodist Village,100,SNF,61,AMV - Wilson Health Care Center,985,2017-03-21985,TCU-A,9225,114,A,33758,1,1,0,37,0,0,0,0,0,0,0
+20120419,19-04-12,Asbury Solomons,200,IL,"""31     """,IL North Apartments,991,2012-04-19991,The Skipjack Riverview,5870,303,A,27784,1,1,0,842,0,0,0,0,0,0,0
+20120405,05-04-12,Asbury Methodist Village,100,IL,"""22     """,Courtyard Homes,995,2012-04-05995,Chestnut,8126,204,A,32012,1,1,0,381,0,0,0,0,0,0,0
+20180821,21-08-18,Springhill,324,IL,31,SPH RL Apts,1014,2018-08-211014,Magnolia,8386,360B,A,32507,1,1,0,379,0,0,0,0,0,0,0
+20191210,10-12-19,Asbury Methodist Village,100,IL,32,Diamond Apartments,999,2019-12-10999,DM Wesley,6425,318,A,28891,1,1,0,362,0,0,0,0,0,0,0
+20120116,16-01-12,Inverness Village,610,IL,"""31     """,IL Apt,1003,2012-01-161003,Crighton,7334,1223,A,30530,1,1,0,442,0,0,0,0,0,0,0
+20201226,26-12-20,Asbury Methodist Village,100,IL,32,Diamond Apartments,999,2020-12-26999,DM Otterbein,6411,511,A,28863,1,1,0,776,0,0,0,0,0,0,0
+20150727,27-07-15,Inverness Village,610,IL,"""21     """,IL Cottages,1004,2015-07-271004,Newark,7508,415L,A,30879,1,1,0,229,0,0,0,0,0,0,0
+20181105,05-11-18,Asbury Methodist Village,100,IL,"""36     """,Mund Apartments,998,2018-11-05998,MU 1BR,6641,615,A,29323,1,1,0,881,0,0,0,0,0,0,0
+20171230,30-12-17,Asbury Methodist Village,100,IL,31,Trott Apartments,996,2017-12-30996,TR Studio LG,7234,515,A,30331,1,1,0,31,0,0,0,0,0,0,0
+20200212,12-02-20,Asbury Place Maryville,,SNF,"""61     """,SNF APM,1054,2020-02-121054,1 North - The Village,11554,107,B,36352,1,1,0,618,0,0,0,0,0,0,0
+20201124,24-11-20,Asbury Methodist Village,100,SNF,61,AMV - Wilson Health Care Center,985,2020-11-24985,3 south 339-351,6941,340,B,29802,1,1,0,147,0,0,0,0,0,0,0
+20141007,07-10-14,Bethany Village,810,IL,"""33     """,West Apartments,1009,2014-10-071009,Franklin,7966,2130,A,31701,1,1,0,1230,0,0,0,0,0,0,0
+20110925,25-09-11,Asbury Methodist Village,100,IL,"""33     """,Wallace Apartments,1000,2011-09-251000,419 Laurel,6198,516,A,28438,1,1,0,513,0,0,0,0,0,0,0
+20150121,21-01-15,Asbury Methodist Village,100,SNF,61,AMV - Wilson Health Care Center,985,2015-01-21985,3 south 327-338,6938,337,B,29795,1,1,0,58,0,0,0,0,0,0,0
+20170707,07-07-17,Bethany Village,810,IL,"""21     """,Cottage East,1011,2017-07-071011,Webb,8115,603,A,31990,1,1,0,2321,0,0,0,0,0,0,0
+20110925,25-09-11,Asbury Methodist Village,100,IL,"""33     """,Wallace Apartments,1000,2011-09-251000,419 Rosewood,6291,305,A,28624,1,1,0,373,0,0,0,0,0,0,0
+20130424,24-04-13,Bethany Village,810,AL,51,Maplewood,1006,2013-04-241006,Golden Maple 1st fl,7702,124,A,31172,1,1,0,786,0,0,0,0,0,0,0
+20171211,11-12-17,Asbury Methodist Village,100,IL,"""33     """,Wallace Apartments,1000,2017-12-111000,419 Holly,6167,501,A,28376,1,1,0,66,0,0,0,0,0,0,0
+20170507,07-05-17,Bethany Village,810,IL,"""21     """,Cottage East,1011,2017-05-071011,Webb,8094,467,A,31949,1,1,0,823,0,0,0,0,0,0,0
+20150810,10-08-15,Asbury Methodist Village,100,AL,51,Kindley,1002,2015-08-101002,Kindley 3rd fl,7020,310,A,29931,1,1,0,36,0,0,0,0,0,0,0
+20170325,25-03-17,Bethany Village,810,IL,"""33     """,West Apartments,1009,2017-03-251009,Meade,8000,1106,A,31769,1,1,0,181,0,0,0,0,0,0,0
+20161128,28-11-16,Asbury Methodist Village,100,AL,51,Kindley,1002,2016-11-281002,Kindley 5th fl,7099,516,A,30087,1,1,0,322,0,0,0,0,0,0,0
+20210930,30-09-21,Asbury Methodist Village,100,IL,"""33     """,Wallace Apartments,1000,2021-09-301000,419 Evergreen,6145,219,A,28332,1,1,0,508,0,0,0,0,0,0,0
+20140131,31-01-14,Asbury Methodist Village,100,SNF,61,AMV - Wilson Health Care Center,985,2014-01-31985,3 south 339-351,6944,343,A,29807,1,1,0,1372,0,0,0,0,0,0,0
+20141007,07-10-14,Asbury Methodist Village,100,SNF,61,AMV - Wilson Health Care Center,985,2014-10-07985,4 south 427-439,6989,439,A,29873,1,1,0,199,0,0,0,0,0,0,0
+20160117,17-01-16,Asbury Solomons,200,IL,"""31     """,IL North Apartments,991,2016-01-17991,The Skipjack Riverview,5871,304,A,27787,1,1,0,2542,0,0,0,0,0,0,0
+20140925,25-09-14,Asbury Solomons,200,IL,"""31     """,IL North Apartments,991,2014-09-25991,The Spinnaker Riverview,6029,223,A,28104,1,1,0,1070,0,0,0,0,0,0,0
+20141112,12-11-14,Asbury Solomons,200,IL,"""31     """,IL North Apartments,991,2014-11-12991,The Meridian,5914,232,A,27873,1,1,0,300,0,0,0,0,0,0,0
+20110405,05-04-11,Asbury Methodist Village,100,AL,51,Kindley,1002,2011-04-051002,Kindley 4th fl,7160,414,A,30202,1,1,0,26,0,0,0,0,0,0,0
+20181211,11-12-18,Bethany Village,810,IL,"""32     """,Court Apartments,1007,2018-12-111007,Nashville,7811,3127,A,31391,1,1,0,176,0,0,0,0,0,0,0
+20191204,04-12-19,Asbury Methodist Village,100,IL,"""21     """,Villas,994,2019-12-04994,Hawthorne MB,6258,374,A,28559,1,1,0,3505,0,0,0,0,0,0,0
+20090401,01-04-09,Asbury Solomons,200,IL,"""31     """,IL North Apartments,991,2009-04-01991,The Overlook,5859,235,A,27763,1,1,0,60,0,0,0,0,0,0,0
+20200822,22-08-20,Asbury Methodist Village,100,SNF,61,AMV - Wilson Health Care Center,985,2020-08-22985,4 north 401-413,6955,403,A,29823,1,1,0,180,0,0,0,0,0,0,0
+20101018,18-10-10,Asbury Methodist Village,100,IL,"""21     """,Villas,994,2010-10-18994,Hawthorne M,6185,370,A,28413,1,1,0,171,0,0,0,0,0,0,0
+20130424,24-04-13,Springhill,324,SNF,61,Forest View,984,2013-04-24984,A Wing,8212,B2,L,32182,1,1,0,479,0,0,0,0,0,0,0
+20101019,19-10-10,Asbury Methodist Village,100,IL,31,Trott Apartments,996,2010-10-19996,TR Small 2BR,6499,512,A,29039,1,1,0,172,0,0,0,0,0,0,0
+20181111,11-11-18,Bethany Village,810,AL,51,Maplewood,1006,2018-11-111006,Golden Maple 1st fl,7687,109,A,31143,1,1,0,396,0,0,0,0,0,0,0
+20191201,01-12-19,Asbury Methodist Village,100,SNF,61,AMV - Wilson Health Care Center,985,2019-12-01985,4 north 401-413,6962,411,B,29835,1,1,0,5,0,0,0,0,0,0,0
+20170707,07-07-17,Asbury Methodist Village,100,IL,"""35     """,Edwards-Fisher Apartments,997,2017-07-07997,EF 1BR Sm w/Den,6720,716,A,29477,1,1,0,2249,0,0,0,0,0,0,0
+20130403,03-04-13,Asbury Methodist Village,100,IL,"""21     """,Villas,994,2013-04-03994,Winterberry,6326,432,A,28693,1,1,0,1069,0,0,0,0,0,0,0
+20120412,12-04-12,Asbury Methodist Village,100,IL,32,Diamond Apartments,999,2012-04-12999,DM Canterbury,6226,508,A,28495,1,1,0,203,0,0,0,0,0,0,0
+20140227,27-02-14,Asbury Solomons,200,IL,"""21     """,IL Cottages,993,2014-02-27993,The Patuxent Riverview,6084,526,A,28212,1,1,0,1853,0,0,0,0,0,0,0
+20211213,13-12-21,Normandie Ridge,,IL,"""31     """,Manchester Apts,1094,2021-12-131094,Two Bedroom Den,12675,401,,37789,1,1,0,166,0,0,0,0,0,0,0
+20120405,05-04-12,Asbury Methodist Village,100,SNF,61,AMV - Wilson Health Care Center,985,2012-04-05985,3 south 339-351,6943,342,B,29805,1,1,0,303,0,0,0,0,0,0,0
+20200226,26-02-20,Bethany Village,810,IL,"""32     """,Court Apartments,1007,2020-02-261007,Dayton,7781,3119,A,31331,1,1,0,3285,0,0,0,0,0,0,0
+20170210,10-02-17,Asbury Methodist Village,100,SNF,61,AMV - Wilson Health Care Center,985,2017-02-10985,4north 414-426,6973,423,A,29853,1,1,0,2478,0,0,0,0,0,0,0
+20170103,03-01-17,Asbury Methodist Village,100,IL,31,Trott Apartments,996,2017-01-03996,TR 2BR/LG 1BR,7151,713,A,30188,1,1,0,1697,0,0,0,0,0,0,0
+20121007,07-10-12,Bethany Village,810,IL,"""22     """,Cottage West,1010,2012-10-071010,Chestnut,8153,5251,A,32065,1,1,0,587,0,0,0,0,0,0,0
+20180612,12-06-18,Bethany Village,810,AL,51,Maplewood,1006,2018-06-121006,Golden Maple 1st fl,7695,117,A,31159,1,1,0,23,0,0,0,0,0,0,0
+20190821,21-08-19,Asbury Solomons,200,SNF,61,Asbury Solomons Skilled Nursing,983,2019-08-21983,A Wing,5762,204,A,27603,1,1,0,132,0,0,0,0,0,0,0
+20180715,15-07-18,Inverness Village,610,IL,"""31     """,IL Apt,1003,2018-07-151003,Glenmoor,7366,1317,A,30595,1,1,0,562,0,0,0,0,0,0,0
+20130726,26-07-13,Asbury Methodist Village,100,IL,32,Diamond Apartments,999,2013-07-26999,DM Aldersgate,6152,1119,A,28346,1,1,0,635,0,0,0,0,0,0,0
+20200901,01-09-20,Asbury Place Maryville,,SNF,"""61     """,SNF APM,1054,2020-09-011054,1 South - Misty Meadows,11428,127,B,36626,1,1,0,20,0,0,0,0,0,0,0
+20101211,11-12-10,Asbury Methodist Village,100,IL,32,Diamond Apartments,999,2010-12-11999,DM Westminster,6470,705,A,28980,1,1,0,225,0,0,0,0,0,0,0
+20210421,21-04-21,Asbury Methodist Village,100,SNF,61,AMV - Wilson Health Care Center,985,2021-04-21985,TCU-C,11243,104,A,36055,1,1,0,1,0,0,0,0,0,0,1
+20161211,11-12-16,Asbury Methodist Village,100,IL,32,Diamond Apartments,999,2016-12-11999,DM Westminster,6468,615,A,28976,1,1,0,773,0,0,0,0,0,0,0
+20190209,09-02-19,Bethany Village,810,IL,"""33     """,West Apartments,1009,2019-02-091009,Marshall,7980,1139,A,31729,1,1,0,620,0,0,0,0,0,0,0
+20121122,22-11-12,Asbury Solomons,200,IL,"""31     """,IL North Apartments,991,2012-11-22991,The Point,5882,207,A,27808,1,1,0,43,0,0,0,0,0,0,0
+20120215,15-02-12,Inverness Village,610,IL,"""31     """,IL Apt,1003,2012-02-151003,Invermark,7427,3216,A,30717,1,1,0,472,0,0,0,0,0,0,0
+20180414,14-04-18,Calvert County Nursing Center,,SNF,"""61     """,Calvert County Nursing Center,1017,2018-04-141017,South 1,8585,S115,B,32769,1,1,0,27,0,0,0,0,0,0,0
+20150910,10-09-15,Asbury Methodist Village,100,SNF,61,AMV - Wilson Health Care Center,985,2015-09-10985,3 north 314-326,6898,322,A,29736,1,1,0,17,0,0,0,0,0,0,0
+20161111,11-11-16,Bethany Village,810,IL,"""21     """,Cottage East,1011,2016-11-111011,Embury,8062,446,A,31893,1,1,0,340,0,0,0,0,0,0,0
+20111207,07-12-11,Inverness Village,610,IL,"""31     """,IL Apt,1003,2011-12-071003,Balmoor,7315,3319,A,30493,1,1,0,402,0,0,0,0,0,0,0
+20210926,26-09-21,Asbury Solomons,200,IL,"""31     """,IL North Apartments,991,2021-09-26991,The Meridian,5920,432,A,27885,1,1,0,732,0,0,0,0,0,0,0
+20190806,06-08-19,Asbury Methodist Village,100,IL,"""36     """,Mund Apartments,998,2019-08-06998,MU 2BR Lg,6590,204,A,29221,1,1,0,1785,0,0,0,0,0,0,0
+20130430,30-04-13,Asbury Methodist Village,100,IL,"""35     """,Edwards-Fisher Apartments,997,2013-04-30997,EF 1BR Sm w/Den,6718,709,A,29473,1,1,0,1096,0,0,0,0,0,0,0
+20200706,06-07-20,Asbury Solomons,200,AL,51,Assisted Living,990,2020-07-06990,A Wing,5777,106,A,27625,1,1,0,165,0,0,0,0,0,0,0
+20091115,15-11-09,Epworth Manor,820,SNF,61,Epworth Manor Skilled Nursing,981,2009-11-15981,Northwest,5742,314,B,27569,1,1,0,441,0,0,0,0,0,0,0
+20210930,30-09-21,Asbury Methodist Village,100,IL,34,Park View Apartments,1001,2021-09-301001,PV Warhol,6785,16,A,29606,1,1,0,1655,0,0,0,0,0,0,0
+20200323,23-03-20,Asbury Methodist Village,100,IL,"""36     """,Mund Apartments,998,2020-03-23998,MU 2BR Lg,6603,505,A,29247,1,1,0,1940,0,0,0,0,0,0,0
+20180928,28-09-18,Asbury Methodist Village,100,IL,31,Trott Apartments,996,2018-09-28996,TR 1BR w/Den,7209,416,A,30281,1,1,0,632,0,0,0,0,0,0,0
+20110617,17-06-11,Bethany Village,810,IL,"""33     """,West Apartments,1009,2011-06-171009,Penn,8024,2129,A,31817,1,1,0,109,0,0,0,0,0,0,0
+20130220,20-02-13,Asbury Solomons,200,IL,"""31     """,IL North Apartments,991,2013-02-20991,The Mainsail,5952,431,A,27949,1,1,0,552,0,0,0,0,0,0,0
+20151030,30-10-15,Asbury Methodist Village,100,IL,"""21     """,Villas,994,2015-10-30994,Winterberry,6322,426,A,28686,1,1,0,2009,0,0,0,0,0,0,0
+20120412,12-04-12,Asbury Methodist Village,100,IL,"""36     """,Mund Apartments,998,2012-04-12998,MU 1BR,6532,514,A,29105,1,1,0,713,0,0,0,0,0,0,0
+20210807,07-08-21,Asbury Solomons,200,IL,"""21     """,IL Cottages,993,2021-08-07993,The Chesapeake,6104,409,A,28252,1,1,0,1551,0,0,0,0,0,0,0
+20170313,13-03-17,Asbury Solomons,200,AL,51,Assisted Living,990,2017-03-13990,C Wing,5787,116,A,27645,1,1,0,816,0,0,0,0,0,0,0
+20200226,26-02-20,Asbury Methodist Village,100,AL,51,Kindley,1002,2020-02-261002,Kindley 2nd fl,7159,219,A,30201,1,1,0,883,0,0,0,0,0,0,0
+20110617,17-06-11,Bethany Village,810,IL,"""32     """,Court Apartments,1007,2011-06-171007,Junaluska,7799,3228,A,31367,1,1,0,109,0,0,0,0,0,0,0
+20210209,09-02-21,Springhill,324,IL,31,SPH RL Apts,1014,2021-02-091014,Juniper,8306,175A,A,32347,1,1,0,2037,0,0,0,0,0,0,0
+20171112,12-11-17,Asbury Methodist Village,100,IL,"""35     """,Edwards-Fisher Apartments,997,2017-11-12997,EF 2BR Lg,6780,813,A,29597,1,1,0,2511,0,0,0,0,0,0,0
+20160424,24-04-16,Asbury Methodist Village,100,SNF,61,AMV - Wilson Health Care Center,985,2016-04-24985,4 south 427-439,6986,436,B,29867,1,1,0,454,0,0,0,0,0,0,0
+20180102,02-01-18,Asbury Methodist Village,100,AL,51,Kindley,1002,2018-01-021002,Kindley 1st fl,7054,115,A,29999,1,1,0,1302,0,0,0,0,0,0,0
+20090630,30-06-09,Asbury Solomons,200,IL,"""31     """,IL South Apartments,992,2009-06-30992,Osprey,5833,1317,A,27711,1,1,0,150,0,0,0,0,0,0,0
+20120828,28-08-12,Asbury Solomons,200,SNF,61,Asbury Solomons Skilled Nursing,983,2012-08-28983,C Wing,5809,228,B,27677,1,1,0,506,0,0,0,0,0,0,0
+20160117,17-01-16,Asbury Methodist Village,100,IL,32,Diamond Apartments,999,2016-01-17999,DM Cassell,6347,813,A,28736,1,1,0,1448,0,0,0,0,0,0,0
+20170417,17-04-17,Bethany Village,810,AL,51,Maplewood,1006,2017-04-171006,Golden Maple 1st fl,7682,104,A,31132,1,1,0,85,0,0,0,0,0,0,0
+20200814,14-08-20,Asbury Methodist Village,100,IL,34,Park View Apartments,1001,2020-08-141001,PV Van Gogh,6775,45,A,29586,1,1,0,982,0,0,0,0,0,0,0
+20130220,20-02-13,Asbury Methodist Village,100,IL,"""36     """,Mund Apartments,998,2013-02-20998,MU 1BR,6532,514,A,29105,1,1,0,218,0,0,0,0,0,0,0
+20140620,20-06-14,Inverness Village,610,IL,"""31     """,IL Apt,1003,2014-06-201003,Aberdeen,7274,1201,A,30411,1,1,0,1328,0,0,0,0,0,0,0
